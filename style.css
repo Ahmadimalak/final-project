@@ -1,0 +1,42 @@
+.image {
+    border: 2px ;
+    width: 200px;
+    border-radius: 20%;
+    float: left;
+    margin-left: 27px;
+    margin-right: 0px;
+    margin-top: 0%;
+    margin-bottom: 10%;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto; 
+    grid-column-gap: 20px; 
+    align-items: center; 
+    overflow: hidden;
+      
+
+}
+
+.colon{
+     padding: 5%;
+    
+}
+
+.droite{
+    text-align: center;
+  background-color: rgb(253, 253, 253);
+  margin-right: 25px;
+    overflow: hidden;
+}
+
+.gauche{
+    text-align: left;
+    background-color: rgb(230, 234, 107);
+    margin-left: 0px;
+}
+
+.hhh{
+    background-color: rgb(230, 234, 107);
+}
